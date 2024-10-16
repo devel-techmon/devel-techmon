@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me 
 👋 Hi, I’m Luke
-👀 Electronic Engineer with 5+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
+👀 Electronic Engineer with 7+ years of experience in semiconductor field with a specialization in ASIC development and foundry service. Primarily focused on Analog Mixed Signal design. Possess strong passion in Artificial Intelligence, Machine Learning, Programming and Embedded Systems.
 
 ### :chart_with_upwards_trend: Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=develtechmon&show_icons=true&hide_border=true&theme=radical)
